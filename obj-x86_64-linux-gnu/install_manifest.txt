@@ -1,0 +1,12 @@
+/usr/lib/x86_64-linux-gnu/libkmsopencvpluginsampleinterface.a
+/usr/include/kurento/modules/opencvpluginsample/OpencvPluginSample.hpp
+/usr/lib/x86_64-linux-gnu/pkgconfig/kmsopencvpluginsample.pc
+/usr/lib/x86_64-linux-gnu/libkmsopencvpluginsampleimpl.so.0.0.1~12.gd26e75d
+/usr/lib/x86_64-linux-gnu/libkmsopencvpluginsampleimpl.so.0
+/usr/lib/x86_64-linux-gnu/libkmsopencvpluginsampleimpl.so
+/usr/include/kurento/modules/opencvpluginsample/OpencvPluginSampleOpenCVImpl.hpp
+/usr/include/kurento/modules/opencvpluginsample/OpencvPluginSampleImpl.hpp
+/usr/include/kurento/modules/opencvpluginsample/OpencvPluginSampleImplFactory.hpp
+/usr/lib/x86_64-linux-gnu/kurento/modules/libkmsopencvpluginsamplemodule.so
+/usr/share/cmake-2.8/Modules/FindKMSOPENCVPLUGINSAMPLE.cmake
+/usr/share/kurento/modules/opencvpluginsample.kmd.json

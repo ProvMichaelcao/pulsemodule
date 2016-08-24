@@ -1,0 +1,3 @@
+misc:Pre-Depends=multiarch-support
+shlibs:Depends=kms-core-6.0, kms-filters-6.0, kms-jsonrpc-1.0, kmsjsoncpp, libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libgstreamer1.5-0 (>= 1.8.1.1~20160706093049.167.g0d8d50e.trusty), libopencv-core2.4, libopencv-imgproc2.4, libopencv-objdetect2.4, libsigc++-2.0-0c2a (>= 2.0.2), libstdc++6 (>= 4.4.0), opencv-plugin-sample
+misc:Depends=

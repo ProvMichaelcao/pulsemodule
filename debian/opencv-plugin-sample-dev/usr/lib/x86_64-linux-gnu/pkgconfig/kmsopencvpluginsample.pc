@@ -1,0 +1,14 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib/x86_64-linux-gnu
+includedir=${prefix}/include/kurento/modules/opencvpluginsample
+
+Name: kmsopencvpluginsample
+Description: Kurento opencvpluginsample Module
+Version: 0.0.1-dev
+URL:
+Requires: kmscore  kmselements  kmsfilters  
+Requires.private:
+Libs: -L${libdir} -lkmsopencvpluginsampleimpl
+Libs.private:
+CFlags: -I${includedir}

@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+bfc4a36c6297ed48cd410bfff8a6c8e7 src/server/cpp_interface.generated
+dcbcff0995c40aee1ea0bb0c417e47b1 src/server/cpp_interface_internal.generated
+1f62fa261f54293d58e751357d8cad92 src/server/cpp_module.generated
+3482f253aa51da70ee8149e00658a215 src/server/cpp_server_internal.generated
+a503c3e7b6b358fae5eb05dcf1594f2b src/server/opencvpluginsample.kmd.json

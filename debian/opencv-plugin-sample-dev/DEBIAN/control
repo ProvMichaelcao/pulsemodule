@@ -1,0 +1,10 @@
+Package: opencv-plugin-sample-dev
+Source: opencv-plugin-sample
+Version: 0.0.1~rc1
+Architecture: amd64
+Maintainer: Maintainer Name
+Installed-Size: 74
+Depends: opencv-plugin-sample (= 0.0.1~rc1), kms-core-6.0-dev (>= 6.0.0), kms-elements-6.0-dev (>= 6.0.0), kms-filters-6.0-dev (>= 6.0.0), libopencv-dev
+Section: utils
+Priority: optional
+Description: dev package description

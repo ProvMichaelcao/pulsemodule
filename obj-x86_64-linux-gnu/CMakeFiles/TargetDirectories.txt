@@ -1,0 +1,3 @@
+/home/parallels/src/kms-opencv-plugin-sample/obj-x86_64-linux-gnu/src/server/CMakeFiles/kmsopencvpluginsampleimpl.dir
+/home/parallels/src/kms-opencv-plugin-sample/obj-x86_64-linux-gnu/src/server/CMakeFiles/kmsopencvpluginsampleinterface.dir
+/home/parallels/src/kms-opencv-plugin-sample/obj-x86_64-linux-gnu/src/server/CMakeFiles/kmsopencvpluginsamplemodule.dir

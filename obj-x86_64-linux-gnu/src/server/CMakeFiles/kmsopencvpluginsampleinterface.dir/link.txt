@@ -1,0 +1,2 @@
+/usr/bin/ar cr libkmsopencvpluginsampleinterface.a  CMakeFiles/kmsopencvpluginsampleinterface.dir/interface/generated-cpp/OpencvPluginSampleInternal.cpp.o CMakeFiles/kmsopencvpluginsampleinterface.dir/interface/generated-cpp/OpencvPluginSample.cpp.o
+/usr/bin/ranlib libkmsopencvpluginsampleinterface.a

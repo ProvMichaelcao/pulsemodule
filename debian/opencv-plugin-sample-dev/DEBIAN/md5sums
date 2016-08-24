@@ -1,0 +1,8 @@
+44b11aeea08e53a5aadd2eb5373fe08b  usr/include/kurento/modules/opencvpluginsample/OpencvPluginSample.hpp
+976501f1347b12b27bc3008a5b29208c  usr/include/kurento/modules/opencvpluginsample/OpencvPluginSampleImpl.hpp
+021c8f8dbe2c9f7814a9d713f36e42a6  usr/include/kurento/modules/opencvpluginsample/OpencvPluginSampleImplFactory.hpp
+29194b48f1cfdee7fd546df3e83d45e8  usr/include/kurento/modules/opencvpluginsample/OpencvPluginSampleOpenCVImpl.hpp
+6821aa308324ce3d1f27da4c4fe01b4b  usr/lib/x86_64-linux-gnu/pkgconfig/kmsopencvpluginsample.pc
+b31d6b0bb1d52fc076375a384c172a0c  usr/share/doc/opencv-plugin-sample-dev/changelog.gz
+d41d8cd98f00b204e9800998ecf8427e  usr/share/doc/opencv-plugin-sample-dev/copyright
+b06ef3e421bda354c133e4a2a430134c  usr/share/kurento/modules/opencvpluginsample.kmd.json
